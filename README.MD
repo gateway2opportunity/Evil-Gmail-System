@@ -54,6 +54,9 @@ no secrets, so it is safe to copy, and it cannot be used to read another
 machine's data. The first launch mints its own token, so you are never locked
 out.
 
+NEED THE FULL SYSTEM THIS IS ONLY A SHOWCASE YOU WILL NEED THE FULLY FILES 
+
+CONTACT ME VIA EMAIL: Rossebernard90@gmail.com ( Make it clear what you want or ask i have tools deadly & good ones😎.
 
 KEEP ONE COPY RUNNING
 ---------------------
